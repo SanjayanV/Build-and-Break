@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "CyberDeck Pro",
+    "description": "High-end mobile workstation for penetration testing.",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Neural Link Interface",
+    "description": "Direct brain-to-computer connection hardware.",
+    "price": 849.50,
+    "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Quantum Encryption Key",
+    "description": "Unhackable physical storage for your private keys.",
+    "price": 299.00,
+    "image": "https://images.unsplash.com/photo-1639803153435-095531d0ebbb?w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Stealth Router",
+    "description": "Anonymize all your local network traffic instantly.",
+    "price": 150.00,
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=500&q=80"
+  }
+]
